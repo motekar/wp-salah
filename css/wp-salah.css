@@ -1,0 +1,7 @@
+.wp-salah-widget .-active {
+  color: green;
+}
+
+.wp-salah-widget .-next {
+  color: orange;
+}

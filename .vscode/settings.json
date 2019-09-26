@@ -1,0 +1,4 @@
+{
+  "phpcs.standard": "WordPress",
+  "php-cs-fixer.rules": "@WordPress"
+}
